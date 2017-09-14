@@ -1,0 +1,3 @@
+P5 10/04/2017 hyderabad 7893455670 male malaria
+P7 13/04/2017 chennai 9898983545 female malaria
+P10 09/04/2017 chennai 8976789076 male malaria

@@ -1,0 +1,4 @@
+P2 09/04/2017 kerala 8983892763 male swine flu
+P6 15/04/2017 pune 9807654987 female swine flu
+P1 03/04/2017 hyderabad 9926776781 male swine flu
+P5 14/04/2017 hyderabad 7893455670 male swine flu
