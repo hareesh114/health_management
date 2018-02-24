@@ -1,8 +1,4 @@
-/*
- * Author: VenkataSaiKrishna.Deshineni
- * Purpose: Patients details.
- * Language: Only C
- */
+
 
 // Define an patient structure 
 typedef struct patient{ 
